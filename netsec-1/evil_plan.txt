@@ -1,0 +1,13 @@
+            flag_bits = ''.join(format(ord(c), '08b') for c in FLAG)
+            idx = 0
+            for y in range(img.size[1]):
+                for x in range(img.size[0]):
+                    if idx < len(flag_bits):
+                        r, g, b = pixels[x, y]
+                        r = (r & 0xFE) | int(flag_bits[idx])
+                        idx += 1
+                        pixels[x, y] = (r, g, b)
+                    else:
+                        break
+                if idx >= len(flag_bits):
+                    break
