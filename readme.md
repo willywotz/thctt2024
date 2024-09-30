@@ -8,8 +8,8 @@ Web Application : Not So Secret / Exclude Me Not / Waiting List
 
 Digital Forensic : Easy1 / Easy2 / Bad Company / Cloudo
 
-Reverse Engineering & Pwnable : [Running Number (Not Done)](pwn-running-number) / [Embedded Malware (Not Done)](pwn-embedded-malware)
+Reverse Engineering & Pwnable : Running Number / Embedded Malware
 
-Network Security : [HTTP Mayhem (Not Done)](netsec-1) / [Silent Whisper](netsec-2) / [Encrypted C2 v2](netsec-3) / [Ultimate C2 v2 (Not Done)](netsec-4)
+Network Security : HTTP Mayhem / [Silent Whisper](netsec-2) / [Encrypted C2 v2](netsec-3) / Ultimate C2 v2
 
 Mobile Security : [Easy](mobile-easy) / [Medium](mobile-medium) / [The Face THCTT24](mobile-the-face-thctt24) / [Click Click](mobile-click-click)
