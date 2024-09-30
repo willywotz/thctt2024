@@ -2,7 +2,7 @@
 
 Cryptography : [Easy1](crypto-easy1) / [Easy2](crypto-easy2) / Medium / Hard
 
-Programming : Easy1 / Easy2 / Medium / type_the_word
+Programming : [Easy1](programming-easy1) / Easy2 / Medium / type_the_word
 
 Web Application : Not So Secret / Exclude Me Not / Waiting List
 
