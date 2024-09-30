@@ -6,7 +6,7 @@ Programming : [Easy1](programming-easy1) / [Easy2](programming-easy2) / Medium /
 
 Web Application : Not So Secret / Exclude Me Not / Waiting List
 
-Digital Forensic : Easy1 / Easy2 / Bad Company / Cloudo
+Digital Forensic : [Easy1](forensic-easy1) / Easy2 / Bad Company / Cloudo
 
 Reverse Engineering & Pwnable : Running Number / Embedded Malware
 
