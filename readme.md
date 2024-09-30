@@ -1,6 +1,6 @@
 # Thailand Cyber Top Talent 2024 - SENIOR [Qualifier]
 
-Cryptography : [Easy1](crypto-easy1) / [Easy2](crypto-easy2) / Medium / Hard
+Cryptography : [Easy1](crypto-easy1) / [Easy2](crypto-easy2) / [Medium](crypto-medium) / Hard
 
 Programming : [Easy1](programming-easy1) / [Easy2](programming-easy2) / Medium / type_the_word
 
